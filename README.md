@@ -14,5 +14,5 @@ A PHP-based web application for managing applicant records, including functional
 - **selected.php:** Displays detailed information for a selected applicant, with options to edit or delete.
 - **database.php:** Contains database connection logic (PDO).
 
-## Programmer
+### Programmer
 Juliana Mancera
