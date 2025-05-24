@@ -241,7 +241,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['submit'])) {
             </div>
             <div class="button-group">
                 <input type="submit" name="submit" value="Update" class="btn btn-primary">
-                <a href="index.php" class="btn btn-secondary">Back</a>
+                <a href="main.php" class="btn btn-secondary">Back</a>
             </div>
         </form>
     </div>
